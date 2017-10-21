@@ -1,13 +1,8 @@
-# 1 - Read the data files
-# Download the image and label files. Have Python decompress and read them byte by byte into appropriate data structures in memory.
-
-# Read gzip file adapted from https://stackoverflow.com/questions/12902540/read-from-a-gzip-file-in-python
 
 import gzip
 from PIL import Image
 import numpy as np
 import os
-
 
 # Problem 1 
 
