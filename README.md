@@ -6,7 +6,7 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 # how to run
 
-on download of the git repositry or clone you will have to have python downloaded version 3.5 or above preferably if you need to download python i have a link for the download page here --> https://www.python.org/downloads/ once downloaded "cd or change directory" to where you have downloaded the repositry once in this directory simply run the python command like so (EG "python mnist.py")
+on download of the git repositry or clone you will have to have python downloaded version 3.5 or above preferably if you need to download python i have a link for the download page here --> https://www.python.org/downloads/ once downloaded "cd or change directory" to where you have downloaded the repositry once in this directory simply run the python command like so <b>(EG "python mnist1.py")</b>
 
 # Problem set: Read the MNIST data files
 These problems relate to the famous MNIST data set. Save your work as a Python file, or a collection of Python files. Place them in a single repository on GitHub, complete with a README. The files are in a bespoke format, as described on the website.
